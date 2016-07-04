@@ -1,0 +1,15 @@
+{
+"data" : 
+	[
+		{
+		"fID":"001",
+		"fTitle":"more解读习近平致金正恩亲署函",
+		"fImg":"/mine/img/a1.jpg",
+		"fOmit":"借劳动党成立周年致亲署函，从公开报道看并无先例。",
+		"fPostNumber":"3"
+		},
+		{"fID":"002","fTitle":"more黑龙江黑河“95后”新兵头插国旗","fImg":"/mine/img/a2.jpg","fOmit":"黑龙江省军区边防某团新兵营“95后”新兵冒着零上5度低温","fPostNumber":"6"},
+		{"fID":"003","fTitle":"more美国一家四口装智障40年骗福利","fImg":"/mine/img/a3.jpg","fOmit":"诈领政府高额福利逾46万美元，遭联邦官员指控。","fPostNumber":"846"},
+		{"fID":"004","fTitle":"more英国小猫坠下百米悬崖竟奇迹生还","fImg":"/mine/img/a4.jpg","fOmit":"无主人信息，救护人员只好为其重新找了个主人。","fPostNumber":"48"}
+	]
+}
